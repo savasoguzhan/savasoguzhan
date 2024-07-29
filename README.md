@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oguzhan Savas</h1>
 <h3 align="center">A passionate .Net developer</h3>
 
-- 🌱 I’m currently learning **.Net and React**
+- 🌱 I’m currently developing **.Net Project**
 
 - 📫 How to reach me **mustafaoguzhansavas@gmail.com**
 
